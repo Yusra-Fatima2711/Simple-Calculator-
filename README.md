@@ -1,10 +1,11 @@
 # Simple-Calculator-
 A simple calculator for two numbers made with python 
 
-How To Use The Calculator 
+How To Run The Calculator 
 
-1. On your computer navigate to the folder containing 
+1. On your computer navigate to the folder containing the file and run
 ```bash
 python Simple-Calculator.py
 ```
-
+                        (or)
+2. Copy the code in GitHub Codespaces in any free website (like, for eg: kaggle kernels)
