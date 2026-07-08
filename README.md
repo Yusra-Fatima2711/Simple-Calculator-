@@ -8,4 +8,4 @@ How To Run The Calculator
 python Simple-Calculator.py
 ```
                         (or)
-2. Copy the code in GitHub Codespaces in any free website (like, for eg: kaggle kernels)
+2. Copy the code in GitHub Codespaces or in any free external website (like, for eg: kaggle kernels)
